@@ -1,6 +1,6 @@
 [[source]]
-url = "https://pypi.python.org/simple"
 verify_ssl = true
+url = "https://pypi.python.org/simple"
 
-[packages.ipython]
+[packages.jupyter]
 extras = [ "notebook",]
