@@ -1,4 +1,4 @@
-"""Add anything to a list"""
+"""Safe extend that handles normal values"""
 from functools import singledispatch
 
 
@@ -10,6 +10,7 @@ def hyperextend(item, l):
 
 @hyperextend.register(list)
 @hyperextend.register(tuple)
+@hyperextend.register(dict)
 def _(item, l):
     """Extend a list with other iterables"""
     l.extend(item)

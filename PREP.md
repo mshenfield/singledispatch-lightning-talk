@@ -9,8 +9,6 @@ Missing abstraction
 
 Something Bad - https://iplegalforum.files.wordpress.com/2015/06/jared-dunn.gif
 
-Ice T Unfrozen -  https://media.giphy.com/media/aMs88eUcW8Kic/giphy.gif
-
 Groovy Arnold - https://s-media-cache-ak0.pinimg.com/originals/35/46/d6/3546d6be8ee96bbcedaebb61954ee294.gif
 
 Criteria for abstraction
