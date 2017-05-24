@@ -3,6 +3,11 @@ A :zap: talk on [`functools.singledispatch`](https://docs.python.org/3/library/f
 
 You can [view the full presentation online](singledispatch.ipynb).
 
+## Running
+This project uses [`pipenv`](http://docs.pipenv.org/en/latest/) to install and manage dependencies.
+
+Run `jupyter notebook singledispatch.ipynb` in this projects directory to open up the presentation notebook.
+
 ## Contributing
 Contributions and corrections welcome!
 
